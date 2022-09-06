@@ -1,8 +1,6 @@
-##Capstone Project IV: JavaScript fundamentals
-#Deployed
+Capstone Project IV: JavaScript fundamentals
 
-
-#Task
+Task
 Note: You will be adding functionality to your previous Capstone Project, so be sure to work with the index.html page and the other webpages you have already created.
 
 Your website is required to implement the following:
